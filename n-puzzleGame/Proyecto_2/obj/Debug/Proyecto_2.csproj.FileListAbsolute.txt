@@ -1,0 +1,75 @@
+c:\users\johanna\documents\visual studio 2015\Projects\Proyecto_2\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+c:\users\johanna\documents\visual studio 2015\Projects\Proyecto_2\Proyecto_2\bin\Debug\Proyecto_2.exe
+c:\users\johanna\documents\visual studio 2015\Projects\Proyecto_2\Proyecto_2\bin\Debug\Proyecto_2.pdb
+c:\users\johanna\documents\visual studio 2015\Projects\Proyecto_2\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+c:\users\johanna\documents\visual studio 2015\Projects\Proyecto_2\Proyecto_2\obj\Debug\Proyecto_2.exe
+c:\users\johanna\documents\visual studio 2015\Projects\Proyecto_2\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia - copia (2)\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia - copia (2)\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia - copia (2)\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia - copia (2)\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia - copia (2)\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\Proyecto_2 - copia - copia (2)\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\proyecto dos versiones\ultima version\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\proyecto dos versiones\ultima version\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\proyecto dos versiones\ultima version\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\proyecto dos versiones\ultima version\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\proyecto dos versiones\ultima version\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\proyecto dos versiones\ultima version\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento - copia\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento - copia\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento - copia\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento - copia\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento - copia\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\esta tabajandose en este momento - copia\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\HHH - copia\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\HHH - copia\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\HHH - copia\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\HHH - copia\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\HHH - copia\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Johanna\Documents\Visual Studio 2015\Projects\1ProyectoDosAnalisis\HHH - copia\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\JulianaCamposParajeles_JohannaRuizBran_P2\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\JulianaCamposParajeles_JohannaRuizBran_P2\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\JulianaCamposParajeles_JohannaRuizBran_P2\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\JulianaCamposParajeles_JohannaRuizBran_P2\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\JulianaCamposParajeles_JohannaRuizBran_P2\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\JulianaCamposParajeles_JohannaRuizBran_P2\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Downloads\en funcioon\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Johanna\Downloads\en funcioon\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Johanna\Downloads\en funcioon\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Downloads\en funcioon\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Johanna\Downloads\en funcioon\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Downloads\en funcioon\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\final\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\final\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\final\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\final\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\final\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\final\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Downloads\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Johanna\Downloads\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Johanna\Downloads\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Downloads\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Johanna\Downloads\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Downloads\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Johanna\Desktop\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Johanna\Desktop\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Johanna\Desktop\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Desktop\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe
+C:\Users\Johanna\Desktop\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.pdb
+C:\Users\Johanna\Desktop\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.csprojResolveAssemblyReference.cache
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\final\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\bin\Debug\Proyecto_2.exe.config
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\final\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.exe
+C:\Users\Pruebas\Documents\3 Semestre\Analisis de Algoritmos\Proyectos\proyecto 2\final\JulianaCamposParajeles_JohannaRuizBran_P2 (2)\JulianaCamposParajeles_JohannaRuizBran_P2\Proyecto_2\obj\Debug\Proyecto_2.pdb
